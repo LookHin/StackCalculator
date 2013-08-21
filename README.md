@@ -3,6 +3,7 @@ StackCalculator
 
 Android StackCalculator
 
+## Screenshot
 
 ![alt text](http://www.unzeen.com/github/StackCalculator/StackCalculator2.png "StackCalculator")
 
