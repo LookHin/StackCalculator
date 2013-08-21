@@ -4,7 +4,7 @@ StackCalculator
 Android StackCalculator
 
 
-![alt text](http://www.unzeen.com/github/StackCalculator/StackCalculator1.png "StackCalculator") 
+![alt text](http://www.unzeen.com/github/StackCalculator/StackCalculator1.png "StackCalculator")  
 ![alt text](http://www.unzeen.com/github/StackCalculator/StackCalculator2.png "StackCalculator")
 
 
