@@ -1,4 +1,4 @@
-StackCalculator
+StackCalculator [No Maintenance]
 ===============
 
 Android StackCalculator
