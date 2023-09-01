@@ -5,7 +5,7 @@ Android StackCalculator
 
 ## Screenshot
 
-![alt text](http://www.unzeen.com/github/StackCalculator/StackCalculator2.png "StackCalculator")
+![alt text](http://www.onlyme.dev/github/StackCalculator/StackCalculator2.png "StackCalculator")
 
 
 ## About Us
